@@ -1,0 +1,10 @@
+C:\Users\Dule\source\repos\SlidingBalls\SlidingBalls\bin\Debug\SlidingBalls.exe.config
+C:\Users\Dule\source\repos\SlidingBalls\SlidingBalls\bin\Debug\SlidingBalls.exe
+C:\Users\Dule\source\repos\SlidingBalls\SlidingBalls\bin\Debug\SlidingBalls.pdb
+C:\Users\Dule\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.Properties.Resources.resources
+C:\Users\Dule\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.exe
+C:\Users\Dule\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.pdb
+C:\Users\Dule\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.Form1.resources

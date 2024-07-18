@@ -1,0 +1,10 @@
+C:\Users\Dule\source\repos\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.exe.config
+C:\Users\Dule\source\repos\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.exe
+C:\Users\Dule\source\repos\WindowsFormsApp37\WindowsFormsApp37\bin\Debug\WindowsFormsApp37.pdb
+C:\Users\Dule\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Form1.resources
+C:\Users\Dule\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.Properties.Resources.resources
+C:\Users\Dule\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.exe
+C:\Users\Dule\source\repos\WindowsFormsApp37\WindowsFormsApp37\obj\Debug\WindowsFormsApp37.pdb

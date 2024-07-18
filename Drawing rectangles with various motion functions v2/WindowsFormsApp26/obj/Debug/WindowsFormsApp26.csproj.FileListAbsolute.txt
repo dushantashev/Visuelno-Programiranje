@@ -1,0 +1,10 @@
+C:\Users\Dule\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.exe.config
+C:\Users\Dule\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.exe
+C:\Users\Dule\source\repos\WindowsFormsApp26\WindowsFormsApp26\bin\Debug\WindowsFormsApp26.pdb
+C:\Users\Dule\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.Form1.resources
+C:\Users\Dule\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.Properties.Resources.resources
+C:\Users\Dule\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.exe
+C:\Users\Dule\source\repos\WindowsFormsApp26\WindowsFormsApp26\obj\Debug\WindowsFormsApp26.pdb

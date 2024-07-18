@@ -1,0 +1,10 @@
+C:\Users\Dule\source\repos\WindowsFormsApp45\WindowsFormsApp45\bin\Debug\WindowsFormsApp45.exe.config
+C:\Users\Dule\source\repos\WindowsFormsApp45\WindowsFormsApp45\bin\Debug\WindowsFormsApp45.exe
+C:\Users\Dule\source\repos\WindowsFormsApp45\WindowsFormsApp45\bin\Debug\WindowsFormsApp45.pdb
+C:\Users\Dule\source\repos\WindowsFormsApp45\WindowsFormsApp45\obj\Debug\WindowsFormsApp45.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\WindowsFormsApp45\WindowsFormsApp45\obj\Debug\WindowsFormsApp45.Form1.resources
+C:\Users\Dule\source\repos\WindowsFormsApp45\WindowsFormsApp45\obj\Debug\WindowsFormsApp45.Properties.Resources.resources
+C:\Users\Dule\source\repos\WindowsFormsApp45\WindowsFormsApp45\obj\Debug\WindowsFormsApp45.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\WindowsFormsApp45\WindowsFormsApp45\obj\Debug\WindowsFormsApp45.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\WindowsFormsApp45\WindowsFormsApp45\obj\Debug\WindowsFormsApp45.exe
+C:\Users\Dule\source\repos\WindowsFormsApp45\WindowsFormsApp45\obj\Debug\WindowsFormsApp45.pdb

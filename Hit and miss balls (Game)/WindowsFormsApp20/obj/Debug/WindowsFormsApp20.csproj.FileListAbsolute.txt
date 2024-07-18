@@ -1,0 +1,10 @@
+C:\Users\Dule\source\repos\WindowsFormsApp20\WindowsFormsApp20\bin\Debug\WindowsFormsApp20.exe.config
+C:\Users\Dule\source\repos\WindowsFormsApp20\WindowsFormsApp20\bin\Debug\WindowsFormsApp20.exe
+C:\Users\Dule\source\repos\WindowsFormsApp20\WindowsFormsApp20\bin\Debug\WindowsFormsApp20.pdb
+C:\Users\Dule\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.Form1.resources
+C:\Users\Dule\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.Properties.Resources.resources
+C:\Users\Dule\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.exe
+C:\Users\Dule\source\repos\WindowsFormsApp20\WindowsFormsApp20\obj\Debug\WindowsFormsApp20.pdb

@@ -1,0 +1,11 @@
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form2cs.resources
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+C:\Users\Dule\source\repos\WindowsFormsApp10\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb

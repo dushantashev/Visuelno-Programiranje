@@ -1,0 +1,20 @@
+C:\Users\Dule\source\repos\WindowsFormsApp40\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe.config
+C:\Users\Dule\source\repos\WindowsFormsApp40\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe
+C:\Users\Dule\source\repos\WindowsFormsApp40\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.pdb
+C:\Users\Dule\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Form1.resources
+C:\Users\Dule\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Properties.Resources.resources
+C:\Users\Dule\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.exe
+C:\Users\Dule\source\repos\WindowsFormsApp40\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.pdb
+C:\Users\Dule\source\repos\Timer forms\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe.config
+C:\Users\Dule\source\repos\Timer forms\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.exe
+C:\Users\Dule\source\repos\Timer forms\WindowsFormsApp40\bin\Debug\WindowsFormsApp40.pdb
+C:\Users\Dule\source\repos\Timer forms\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\Timer forms\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Form1.resources
+C:\Users\Dule\source\repos\Timer forms\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.Properties.Resources.resources
+C:\Users\Dule\source\repos\Timer forms\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\Timer forms\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\Timer forms\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.exe
+C:\Users\Dule\source\repos\Timer forms\WindowsFormsApp40\obj\Debug\WindowsFormsApp40.pdb

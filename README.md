@@ -1,1 +1,1 @@
-# Visuelno-Programiranje
+# Vizuelno-Programiranje

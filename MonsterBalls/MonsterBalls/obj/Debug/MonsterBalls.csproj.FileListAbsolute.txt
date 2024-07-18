@@ -1,0 +1,10 @@
+C:\Users\Dule\source\repos\MonsterBalls\MonsterBalls\bin\Debug\MonsterBalls.exe.config
+C:\Users\Dule\source\repos\MonsterBalls\MonsterBalls\bin\Debug\MonsterBalls.exe
+C:\Users\Dule\source\repos\MonsterBalls\MonsterBalls\bin\Debug\MonsterBalls.pdb
+C:\Users\Dule\source\repos\MonsterBalls\MonsterBalls\obj\Debug\MonsterBalls.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\MonsterBalls\MonsterBalls\obj\Debug\MonsterBalls.Form1.resources
+C:\Users\Dule\source\repos\MonsterBalls\MonsterBalls\obj\Debug\MonsterBalls.Properties.Resources.resources
+C:\Users\Dule\source\repos\MonsterBalls\MonsterBalls\obj\Debug\MonsterBalls.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\MonsterBalls\MonsterBalls\obj\Debug\MonsterBalls.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\MonsterBalls\MonsterBalls\obj\Debug\MonsterBalls.exe
+C:\Users\Dule\source\repos\MonsterBalls\MonsterBalls\obj\Debug\MonsterBalls.pdb

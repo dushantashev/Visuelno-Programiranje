@@ -1,0 +1,10 @@
+C:\Users\Dule\source\repos\WindowsFormsApp44\WindowsFormsApp44\bin\Debug\WindowsFormsApp44.exe.config
+C:\Users\Dule\source\repos\WindowsFormsApp44\WindowsFormsApp44\bin\Debug\WindowsFormsApp44.exe
+C:\Users\Dule\source\repos\WindowsFormsApp44\WindowsFormsApp44\bin\Debug\WindowsFormsApp44.pdb
+C:\Users\Dule\source\repos\WindowsFormsApp44\WindowsFormsApp44\obj\Debug\WindowsFormsApp44.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\WindowsFormsApp44\WindowsFormsApp44\obj\Debug\WindowsFormsApp44.Form1.resources
+C:\Users\Dule\source\repos\WindowsFormsApp44\WindowsFormsApp44\obj\Debug\WindowsFormsApp44.Properties.Resources.resources
+C:\Users\Dule\source\repos\WindowsFormsApp44\WindowsFormsApp44\obj\Debug\WindowsFormsApp44.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\WindowsFormsApp44\WindowsFormsApp44\obj\Debug\WindowsFormsApp44.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\WindowsFormsApp44\WindowsFormsApp44\obj\Debug\WindowsFormsApp44.exe
+C:\Users\Dule\source\repos\WindowsFormsApp44\WindowsFormsApp44\obj\Debug\WindowsFormsApp44.pdb

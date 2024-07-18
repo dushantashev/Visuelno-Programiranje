@@ -1,0 +1,12 @@
+C:\Users\Dule\source\repos\Airport2\Airport2\obj\Debug\Airport2.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\Airport2\Airport2\obj\Debug\Airport2.Form1.resources
+C:\Users\Dule\source\repos\Airport2\Airport2\obj\Debug\Airport2.Form2.resources
+C:\Users\Dule\source\repos\Airport2\Airport2\obj\Debug\Airport2.Properties.Resources.resources
+C:\Users\Dule\source\repos\Airport2\Airport2\obj\Debug\Airport2.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\Airport2\Airport2\obj\Debug\Airport2.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\Airport2\Airport2\bin\Debug\Airport2.exe.config
+C:\Users\Dule\source\repos\Airport2\Airport2\bin\Debug\Airport2.exe
+C:\Users\Dule\source\repos\Airport2\Airport2\bin\Debug\Airport2.pdb
+C:\Users\Dule\source\repos\Airport2\Airport2\obj\Debug\Airport2.exe
+C:\Users\Dule\source\repos\Airport2\Airport2\obj\Debug\Airport2.pdb
+C:\Users\Dule\source\repos\Airport2\Airport2\obj\Debug\Airport2.Form3.resources

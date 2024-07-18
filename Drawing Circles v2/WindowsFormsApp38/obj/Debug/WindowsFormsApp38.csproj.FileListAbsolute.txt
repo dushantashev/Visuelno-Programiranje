@@ -1,0 +1,10 @@
+C:\Users\Dule\source\repos\WindowsFormsApp38\WindowsFormsApp38\bin\Debug\WindowsFormsApp38.exe.config
+C:\Users\Dule\source\repos\WindowsFormsApp38\WindowsFormsApp38\bin\Debug\WindowsFormsApp38.exe
+C:\Users\Dule\source\repos\WindowsFormsApp38\WindowsFormsApp38\bin\Debug\WindowsFormsApp38.pdb
+C:\Users\Dule\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.csproj.AssemblyReference.cache
+C:\Users\Dule\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.Form1.resources
+C:\Users\Dule\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.Properties.Resources.resources
+C:\Users\Dule\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.csproj.GenerateResource.cache
+C:\Users\Dule\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.csproj.CoreCompileInputs.cache
+C:\Users\Dule\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.exe
+C:\Users\Dule\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.pdb
